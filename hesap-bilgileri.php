@@ -15,7 +15,7 @@ $updateChecker = YahnisElsts\PluginUpdateChecker\v5\PucFactory::buildUpdateCheck
 );
 
 $updateChecker->setBranch('main');
-
+$updateChecker->setAuthentication(null);
 if (!defined("ABSPATH")) exit;
 
 /* ---------------------------------------------------------
