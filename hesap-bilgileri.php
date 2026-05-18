@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hesap Bilgileri
 Description: Hesap Bilgileri Eklentisi
-Version: 2.2
+Version: 2.3
 * GitHub Plugin URI: https://github.com/adminmagazify/hesap-bilgileri
 Author: Magazac
 */
@@ -48,7 +48,7 @@ function hb_fields() {
     return [
 
         // Temel bilgiler
-        "ad" => "Adınız",
+        "ad" => "Ad",
         "soyad" => "Soyad",
 
         // Firma bilgileri
