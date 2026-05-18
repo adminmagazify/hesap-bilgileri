@@ -8,7 +8,7 @@ Author: Magazac
 require plugin_dir_path(__FILE__) . 'plugin-update-checker-master/plugin-update-checker.php';
 
 $updateChecker = YahnisElsts\PluginUpdateChecker\v5\PucFactory::buildUpdateChecker(
-    'https://github.com/adminmagazify/hesap-bilgileri   ',
+    'https://github.com/adminmagazify/hesap-bilgileri',
     __FILE__,
     'hesap-bilgileri'
 );
