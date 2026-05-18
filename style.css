@@ -1,0 +1,39 @@
+.hb-form {
+    max-width: 600px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.hb-field {
+    margin-bottom: 15px;
+}
+
+.hb-field label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.hb-field input[type=text],
+.hb-field input[type=file] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+}
+
+.hb-save {
+    background: #0073aa;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.hb-existing {
+    margin-top: 5px;
+    font-size: 12px;
+}
