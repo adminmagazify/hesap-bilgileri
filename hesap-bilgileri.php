@@ -2,8 +2,8 @@
 /*
 Plugin Name: Hesap Bilgileri
 Description: Hesap Bilgileri Eklentisi
-Version: 2.1
- * GitHub Plugin URI: https://github.com/adminmagazify/hesap-bilgileri
+Version: 2.2
+* GitHub Plugin URI: https://github.com/adminmagazify/hesap-bilgileri
 Author: Magazac
 */
 require plugin_dir_path(__FILE__) . 'plugin-update-checker-master/plugin-update-checker.php';
