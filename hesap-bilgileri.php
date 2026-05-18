@@ -47,7 +47,7 @@ function hb_fields() {
     return [
 
         // Temel bilgiler
-        "ad" => "Ad",
+        "ad" => "Adınız",
         "soyad" => "Soyad",
 
         // Firma bilgileri
