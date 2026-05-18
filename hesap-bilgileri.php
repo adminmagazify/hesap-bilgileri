@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hesap Bilgileri
 Description: Hesap Bilgileri Eklentisi
-Version: 2.0
+Version: 2.1
 Author: Magazac
 */
 require plugin_dir_path(__FILE__) . 'plugin-update-checker-master/plugin-update-checker.php';
